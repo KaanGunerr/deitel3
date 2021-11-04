@@ -1,0 +1,26 @@
+a) Herhangi bir problemin çözümü, biri dizi ifadenin belli bir _______ içinde
+uygulanmasýdýr.
+b) Ýþlemin eþ anlamlýsý _______ dir.
+c) Birkaç sayýnýn toplamýný tutan deðiþkene _______ denir.
+d) Belli deðiþkenlere programýn baþýnda belli deðerlerin verilmesine _______ denir.
+e) “Veri giriþi sonunu” ifade eden özel deðere _______ denir. Bu deðer _______,
+_______, _______ ya da _______.
+f) _______, bir algoritmanýn grafiksel gösterimidir.
+g) Bir akýþ grafiðinde, adýmlarýn hangi sýrayla gerçekleþtirileceði _______
+sembolleriyle ifade edilir.
+h) Bitiþ sembolü, her algoritmada _______ ve _______ belirtir.
+i) Dikdörtgen semboller, normalde _______ ifadeleri tarafýndan hesaplamalara ve
+_______ ve _______ standart kütüphane fonksiyonlarýnýn çaðrýlmasýyla
+gerçekleþtirilen giriþ/çýkýþ operasyonlarýna karþýlýk gelir.
+j) Bir karar sembolü içine yazýlan nesneye _______ denir.
+
+
+a- sýra 
+b- algoritma
+c-toplam deðiþkeni
+d- ilk deðer atama
+f-akýþ diyagramý
+g-akýþ çizgileri
+h-baþlangýç ve son
+i-operatör,stdio.h,stdlib.h
+j-karþýlaþtýrma operatörü

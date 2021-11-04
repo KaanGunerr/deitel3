@@ -1,0 +1,34 @@
+a) Klavyeden iki sayý alýnýz, toplamlarýný hesaplayýp sonucu ekrana yazdýrýnýz.
+
+Baþla
+x, y tamsayý olarak tanýmla; sýfýra ata
+pfintf ile 2 sayý girdisi iste
+scanf ile girdileri al ve sýrayla deðiþkenlere ata
+printf ile toplamlarýný yazdýr
+Bitir
+
+b) Klavyeden iki sayý alýnýz, eðer varsa iki sayýdan büyük olanýný ekrana yazdýrýnýz.
+
+Baþla
+x, y tamsayý olarak tanýmla; sýfýra ata
+pfintf ile 2 sayý girdisi iste
+scanf ile girdileri al ve sýrayla deðiþkenlere ata
+if ile eðer ilki daha büyükse 
+	ilklini ekrana yazdýr
+else if ikinci daha büyükse
+	ikincisini ekrana yazdýr
+Bitir	
+
+c) Klavyeden birkaç pozitif sayý alýnýz,ve sayýlarýn toplamýný hesaplayýp ekrana
+yazdýrýnýz. “Veri giriþi sonunu” belirtmek için –1 nöbetçi deðerini kullanýldýðýný
+kabul ediniz.
+
+Baþla
+
+nobetci, toplam, sayi tanýmla ve sýfýra ata
+nobetci -1 olmadýðý sürece (while)
+	toplamý sayý ve toplamýn toplamýna ata
+	printf ile girdi iste (-1 programý bitirir)
+	scanf ile sayi için girdi al
+ekrana toplamý yazdýr
+Bitir

@@ -1,0 +1,30 @@
+a) “Ýki Sayý giriniz” mesajýný ekrana yazdýrýn.
+
+Baþla
+Printf ile "Ýki sayý giriniz" yazdýr
+Bitir
+
+b) x, y ve z deðiþkenlerinin toplamýný p deðiþkenine atayýnýz.
+
+Baþla
+x, y, z, p tamsayýlarýný deðiþken olarak tanýmla
+x + y + z toplamýný p deðiþkenine ata 
+Bitir
+
+c) Aþaðýdaki koþul, bir if/else seçim yapýsý içerisinde test edilmektedir: m’nin deðeri
+v’nin iki katýndan büyüktür.
+
+Baþla
+Eðer m v'nin iki katýndan büyükse
+	ekrana "m’nin deðeri v’nin iki katýndan büyüktür." yazdýr
+deðilse
+	ekrana "m’nin deðeri v’nin iki katýndan küçüktür." yazdýr
+Bitir
+
+d) s, r ve t deðiþkenleri için klavyeden deðerler alýn.
+
+Baþla
+s, r, t, tamsayýlarýný deðiþken olarak ata
+printf ile kullanýcýdan deðer al
+scanf ile deðeri deðiþkenlere ata
+Bitir
